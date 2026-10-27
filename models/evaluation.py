@@ -110,7 +110,7 @@ class Evaluator:
         rows = {}
         for name, qf in forecasts.items():
             p = qf.point_forecast()[ok]
-            r = {"MAE": Metrics.mae(y, p), "WAPE": Metrics.wape(y, p), "Bias": Metrics.bias(y, p),
+            r = {"MAE": Metrics.mae(y, p), "RMSE": Metrics.rmse(y, p), "WAPE": Metrics.wape(y, p), "Bias": Metrics.bias(y, p),
                  "WAPE mature (age>=12)": Metrics.wape(y[age >= 12], p[age >= 12]),
                  "WAPE young (age<12)": Metrics.wape(y[age < 12], p[age < 12])}
             if qf.has(0.1, 0.5, 0.9):

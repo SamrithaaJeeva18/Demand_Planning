@@ -1,0 +1,17 @@
+kind,start,end,name,value,announced,note
+tax_change,2022-06-01,2022-06-01,VAT 8% to 12%,4,,announcement date not checked yet
+tax_change,2022-09-01,2022-09-01,VAT 12% to 15%,3,2022-08-31,announced the day before it took effect
+tax_change,2024-01-01,2024-01-01,VAT 15% to 18%,3,2023-11-15,announced in the budget speech in mid-November 2023 (approximate day)
+special_holiday,2022-05-02,2022-05-02,Special Bank Holiday,,,Calendarific
+special_holiday,2022-06-13,2022-06-13,Public Sector Holiday,,,Calendarific
+special_holiday,2022-06-17,2022-06-17,Public Sector Holiday,,,Calendarific
+special_holiday,2022-06-24,2022-06-24,Public Sector Holiday,,,Calendarific
+special_holiday,2022-07-15,2022-07-15,Public Sector Holiday,,,Calendarific
+special_holiday,2022-12-26,2022-12-26,Special Bank Holiday,,,Calendarific
+special_holiday,2024-09-23,2024-09-23,Public Sector Holiday,,,Calendarific
+special_holiday,2025-11-28,2025-11-28,Bad Weather Holiday,,,Calendarific
+school_vacation,2025-03-15,2025-03-31,2025 vacation,,,Ministry of Education 2025 calendar - ONLY 2025 FILLED
+school_vacation,2025-04-12,2025-04-20,2025 vacation,,,Ministry of Education 2025 calendar - ONLY 2025 FILLED
+school_vacation,2025-05-10,2025-05-13,2025 vacation,,,derived from term dates - ONLY 2025 FILLED
+school_vacation,2025-08-08,2025-08-17,2025 vacation,,,Ministry of Education 2025 calendar - ONLY 2025 FILLED
+school_vacation,2025-10-18,2025-11-16,2025 vacation,,,Ministry of Education 2025 calendar - ONLY 2025 FILLED

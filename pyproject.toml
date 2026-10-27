@@ -5,9 +5,13 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
+    "holidays>=0.107",
     "lightgbm>=4.7.0",
     "marimo>=0.25.1",
     "matplotlib>=3.11.2",
+    "numpy>=2.5.4",
     "openpyxl>=3.1.5",
     "pandas>=3.0.6",
+    "torch>=2.14.1",
+    "xgboost>=3.4.1",
 ]
